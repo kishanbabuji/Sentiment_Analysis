@@ -20,7 +20,7 @@ st.markdown("""
     }
     .stTextInput>div>div>input, .stTextArea>div>div>textarea {
         background-color: rgba(255, 255, 255, 0.8);
-        color: #d0dbe5;
+        color: #161616;
         border: 1px solid #3f51b5;
     }
     h1, h2, h3 {
